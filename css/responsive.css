@@ -1,0 +1,30 @@
+@media only screen and (max-width:668px) {
+    .container {
+        margin: 50px;
+    }
+
+    .calculator {
+        border: 1px solid #717377;
+        padding: 0px 0px 10px 10px;
+        border-radius: 17px;
+
+    }
+
+    input {
+        width: 230px;
+        padding: 10px;
+        margin: 30px 20px 30px 10px;
+        border-radius: 8px;
+        font-size: 30px;
+        color: white;
+
+    }
+
+    button {
+        border: 1px solid black;
+        width: 50px;
+        height: 50px;
+        margin: 4px;
+        font-size: 20px;
+    }
+}
